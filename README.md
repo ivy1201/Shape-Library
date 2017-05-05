@@ -1,5 +1,5 @@
 # Shape-Library
-This shape library contains shapes i usually use
+This shape library contains
 此图形库包括：
 五角星
 正六边形

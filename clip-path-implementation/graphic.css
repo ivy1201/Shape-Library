@@ -1,0 +1,146 @@
+/* line 16, ../sass/graphic.scss */
+.polygon {
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+}
+
+/* line 25, ../sass/graphic.scss */
+.polygon:nth-of-type(1)::after {
+  content: "3";
+}
+
+/* line 28, ../sass/graphic.scss */
+.clippaths .polygon:nth-of-type(1) {
+  position: relative;
+  width: 128px;
+  height: 128px;
+  background: #c00;
+  -webkit-clip-path: polygon(93.30127% 75%, 50% 0%, 6.69873% 75%);
+}
+
+/* line 25, ../sass/graphic.scss */
+.polygon:nth-of-type(2)::after {
+  content: "4";
+}
+
+/* line 28, ../sass/graphic.scss */
+.clippaths .polygon:nth-of-type(2) {
+  position: relative;
+  width: 128px;
+  height: 128px;
+  background: #c00;
+  -webkit-clip-path: polygon(85.35534% 85.35534%, 85.35534% 14.64466%, 14.64466% 14.64466%, 14.64466% 85.35534%);
+}
+
+/* line 25, ../sass/graphic.scss */
+.polygon:nth-of-type(3)::after {
+  content: "5";
+}
+
+/* line 28, ../sass/graphic.scss */
+.clippaths .polygon:nth-of-type(3) {
+  position: relative;
+  width: 128px;
+  height: 128px;
+  background: #c00;
+  -webkit-clip-path: polygon(79.38926% 90.45085%, 97.55283% 34.54915%, 50% 0%, 2.44717% 34.54915%, 20.61074% 90.45085%);
+}
+
+/* line 25, ../sass/graphic.scss */
+.polygon:nth-of-type(4)::after {
+  content: "6";
+}
+
+/* line 28, ../sass/graphic.scss */
+.clippaths .polygon:nth-of-type(4) {
+  position: relative;
+  width: 128px;
+  height: 128px;
+  background: #c00;
+  -webkit-clip-path: polygon(75% 93.30127%, 100% 50%, 75% 6.69873%, 25% 6.69873%, 0% 50%, 25% 93.30127%);
+}
+
+/* line 25, ../sass/graphic.scss */
+.polygon:nth-of-type(5)::after {
+  content: "7";
+}
+
+/* line 28, ../sass/graphic.scss */
+.clippaths .polygon:nth-of-type(5) {
+  position: relative;
+  width: 128px;
+  height: 128px;
+  background: #c00;
+  -webkit-clip-path: polygon(71.69419% 95.04844%, 98.7464% 61.12605%, 89.09157% 18.82551%, 50% 0%, 10.90843% 18.82551%, 1.2536% 61.12605%, 28.30581% 95.04844%);
+}
+
+/* line 25, ../sass/graphic.scss */
+.polygon:nth-of-type(6)::after {
+  content: "8";
+}
+
+/* line 28, ../sass/graphic.scss */
+.clippaths .polygon:nth-of-type(6) {
+  position: relative;
+  width: 128px;
+  height: 128px;
+  background: #c00;
+  -webkit-clip-path: polygon(69.13417% 96.19398%, 96.19398% 69.13417%, 96.19398% 30.86583%, 69.13417% 3.80602%, 30.86583% 3.80602%, 3.80602% 30.86583%, 3.80602% 69.13417%, 30.86583% 96.19398%);
+}
+
+/* line 25, ../sass/graphic.scss */
+.polygon:nth-of-type(7)::after {
+  content: "9";
+}
+
+/* line 28, ../sass/graphic.scss */
+.clippaths .polygon:nth-of-type(7) {
+  position: relative;
+  width: 128px;
+  height: 128px;
+  background: #c00;
+  -webkit-clip-path: polygon(67.10101% 96.98463%, 93.30127% 75%, 99.24039% 41.31759%, 82.13938% 11.69778%, 50% 0%, 17.86062% 11.69778%, 0.75961% 41.31759%, 6.69873% 75%, 32.89899% 96.98463%);
+}
+
+/* line 25, ../sass/graphic.scss */
+.polygon:nth-of-type(8)::after {
+  content: "10";
+}
+
+/* line 28, ../sass/graphic.scss */
+.clippaths .polygon:nth-of-type(8) {
+  position: relative;
+  width: 128px;
+  height: 128px;
+  background: #c00;
+  -webkit-clip-path: polygon(65.45085% 97.55283%, 90.45085% 79.38926%, 100% 50%, 90.45085% 20.61074%, 65.45085% 2.44717%, 34.54915% 2.44717%, 9.54915% 20.61074%, 0% 50%, 9.54915% 79.38926%, 34.54915% 97.55283%);
+}
+
+/* line 25, ../sass/graphic.scss */
+.polygon:nth-of-type(9)::after {
+  content: "11";
+}
+
+/* line 28, ../sass/graphic.scss */
+.clippaths .polygon:nth-of-type(9) {
+  position: relative;
+  width: 128px;
+  height: 128px;
+  background: #c00;
+  -webkit-clip-path: polygon(64.08663% 97.97465%, 87.78748% 82.74304%, 99.49107% 57.11574%, 95.4816% 29.22925%, 77.03204% 7.93732%, 50% 0%, 22.96796% 7.93732%, 4.5184% 29.22925%, 0.50893% 57.11574%, 12.21252% 82.74304%, 35.91337% 97.97465%);
+}
+
+/* line 25, ../sass/graphic.scss */
+.polygon:nth-of-type(10)::after {
+  content: "12";
+}
+
+/* line 28, ../sass/graphic.scss */
+.clippaths .polygon:nth-of-type(10) {
+  position: relative;
+  width: 128px;
+  height: 128px;
+  background: #c00;
+  -webkit-clip-path: polygon(62.94095% 98.29629%, 85.35534% 85.35534%, 98.29629% 62.94095%, 98.29629% 37.05905%, 85.35534% 14.64466%, 62.94095% 1.70371%, 37.05905% 1.70371%, 14.64466% 14.64466%, 1.70371% 37.05905%, 1.70371% 62.94095%, 14.64466% 85.35534%, 37.05905% 98.29629%);
+}
